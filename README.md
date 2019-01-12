@@ -8,3 +8,5 @@ Client news app delivers news from selected topics by the user
   <img src="https://i.imgur.com/2TdTGh2.png" width="350" title="Storyboards">
 </p>
 
+Code or more designs can be made avialable upon request
+
